@@ -1,0 +1,9 @@
+log:2019/04/25 19:25:26 log.go:24: Line 4
+log:2019/04/25 19:25:26 log.go:25: Line 5
+log:2019/04/25 19:25:26 log.go:26: Line 6
+log:2019/04/25 19:27:53 log.go:24: Line 4
+log:2019/04/25 19:27:53 log.go:25: Line 5
+log:2019/04/25 19:27:53 log.go:26: Line 6
+log:2019/04/25 19:27:53 log.go:28: Line 7
+log:2019/04/25 19:27:53 proc.go:200: Line 8
+log:2019/04/25 19:27:53 asm_amd64.s:1337: Line 9

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ .Title }}</title>
+    </head>
+    <body>
+        {{ template "content" . }}
+        {{ block "block" . }} Block {{ end }}
+    </body>
+</html>
